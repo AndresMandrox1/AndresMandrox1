@@ -37,5 +37,7 @@
 
 <h3 align="left">Contact me:</h3>
 <a href="https://www.linkedin.com/in/andres-mandrox-508b9a234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andres-mandrox-508b9a234/" height="30" width="40" /></a>
+<br/>
+📫 Email: andreslopez778@rocketmail.com
 
 </br>
